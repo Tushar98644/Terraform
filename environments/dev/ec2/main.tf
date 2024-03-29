@@ -1,7 +1,7 @@
 module "ec2" {
- source = "../../modules/aws-ec2"
+ source = "../../../modules/aws-ec2"
 
- ami_id = "ami-0c94855ba95c574c"
+ ami_id = "ami-007020fd9c84e18c7"
  instance_type = "t2.micro"
  instance_name = "dev-instance"
 }
