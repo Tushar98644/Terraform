@@ -14,7 +14,6 @@ scan_on_push = false
 }
 ```
 
-
 ### Inputs
 
 - **repository_name**: The name of the ECR repository.
