@@ -1,5 +1,5 @@
 name: 💡 General Feature Request
-description: Have a new idea/feature for BioDrop? Let us know...
+description: Have a new idea/feature for Terraform? Let us know...
 title: "[FEATURE] <description>"
 labels: ["⭐ goal: addition", "🚦 status: awaiting triage"]
 body:
@@ -49,7 +49,3 @@ body:
       description: For example reference any existing code
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: |
-        You can also join our Discord community [here](http://discord.eddiehub.org)
